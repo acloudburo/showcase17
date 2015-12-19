@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Showcase Theme - United</title>
+  <subtitle>United</subtitle>
+  <id>https://showcase17.curation.space/</id>
+  <link href="https://showcase17.curation.space/"/>
+  <link href="https://showcase17.curation.space/feed.xml" rel="self"/>
+  <author>
+    <name>Felix K</name>
+  </author>
+</feed>
