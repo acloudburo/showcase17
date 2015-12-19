@@ -25,6 +25,24 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://showcase17.curation.space//2015/11/19/example-with-fixed-images.html</loc>
+    <lastmod>2015-12-19</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://showcase17.curation.space//2015/11/15/example-with-lightbox-images.html</loc>
+    <lastmod>2015-12-19</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://showcase17.curation.space//2015/11/15/example-with-youtube-videos.html</loc>
+    <lastmod>2015-12-19</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://showcase17.curation.space//menu2.html</loc>
     <lastmod>2015-12-19</lastmod>
     <priority>1.0</priority>
@@ -70,6 +88,36 @@
     <loc>https://showcase17.curation.space//menu3.html</loc>
     <lastmod>2015-12-19</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://showcase17.curation.space//tags/image.html</loc>
+    <lastmod>2015-12-19</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://showcase17.curation.space//2015.html</loc>
+    <lastmod>2015-12-19</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://showcase17.curation.space//2015/11.html</loc>
+    <lastmod>2015-12-19</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://showcase17.curation.space//2015/11/19.html</loc>
+    <lastmod>2015-12-19</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://showcase17.curation.space//2015/11/15.html</loc>
+    <lastmod>2015-12-19</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
 </urlset>
